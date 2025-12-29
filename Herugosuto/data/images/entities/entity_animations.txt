@@ -1,0 +1,6 @@
+player/idle/ 6;6;6;6;8;16;40 loop
+player/run/ 5;5;5;5 loop
+player/jump/ 5;5;5;5 loop
+player/fall/ 5;5;5;5;5;5;5;5 loop
+metalhead/idle/ 60;4;3;3;60;10;10;3;3;3;20;5 loop
+battle_rifle/idle/ 1 loop

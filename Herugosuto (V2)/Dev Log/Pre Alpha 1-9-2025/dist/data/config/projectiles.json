@@ -1,0 +1,16 @@
+{
+    "revolver": {
+        "shape": ["line", [255, 255, 255], 5, 2],
+        "power": 3,
+        "group": "normal",
+        "spawn_advance": 19,
+        "knockback": 150
+    },
+    "heavy_blob": {
+        "shape": null,
+        "power": 5,
+        "group": "heavy_blob",
+        "spawn_advance": 8,
+        "knockback": 5
+    }
+}

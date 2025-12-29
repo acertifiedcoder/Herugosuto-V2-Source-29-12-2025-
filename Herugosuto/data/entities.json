@@ -1,0 +1,9 @@
+{
+    "player": {
+        "base_health": 50
+    },
+
+    "metalhead": {
+        "base_health": 30
+    }
+}

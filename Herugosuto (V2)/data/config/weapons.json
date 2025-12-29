@@ -1,0 +1,42 @@
+{
+    "revolver": {
+        "ammo_type": "small",
+        "projectile_type": "revolver",
+        "capacity": 6,
+        "reload": "shells",
+        "attack_rate": 0.01,
+        "controls": ["left"]
+    },
+    "battle rifle": {
+        "ammo_type": "medium",
+        "projectile_type": "revolver",
+        "capacity": 28,
+        "reload": "mag",
+        "attack_rate": 0.1,
+        "controls": ["left_hold"]
+    },
+    "vector": {
+        "ammo_type": "small",
+        "projectile_type": "revolver",
+        "capacity": 18,
+        "reload": "vector_mag",
+        "attack_rate": 0.04,
+        "controls": ["left_hold"]
+    },
+    "pistol": {
+        "ammo_type": "small",
+        "projectile_type": "revolver",
+        "capacity": 8,
+        "reload": "mag",
+        "attack_rate": 0.01,
+        "controls": ["left"]
+    },
+    "hatchet": {
+        "ammo_type": "small",
+        "projectile_type": "revolver",
+        "capacity": 8,
+        "reload": "mag",
+        "attack_rate": 0.01,
+        "controls": ["left"]
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "revolver": {
+    "shape": ["line", [53, 255, 192], 5, 2],
+    "power": 10,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "small revolver": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 4,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "rifle": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 7,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "pistol": {
+    "shape": ["line", [255, 0, 68], 5, 2],
+    "power": 4,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "hornet": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 4,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "p90": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 6,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "smg": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 5,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "uzi": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 2,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "shotgun": {
+    "shape": ["line", [255, 255, 255], 5, 2],
+    "power": 6,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "double_barrel": {
+    "shape": ["line", [255, 255, 255], 5, 3],
+    "power": 9,
+    "group": "normal",
+    "spawn_advance": 5,
+    "knockback": 1
+  },
+  "heavy_blob": {
+    "shape": null,
+    "power": 5,
+    "group": "heavy_blob",
+    "spawn_advance": 8,
+    "knockback": 0.2
+  }
+}

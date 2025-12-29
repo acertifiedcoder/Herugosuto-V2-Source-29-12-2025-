@@ -1,0 +1,110 @@
+{
+  "smg": {
+    "ammo_type": "medium",
+    "projectile_type": "smg",
+    "capacity": 25,
+    "reload": "smg",
+    "attack_rate": 0.04,
+    "controls": ["left_hold"],
+    "accuracy": 0.95
+  },
+  "rifle": {
+    "ammo_type": "medium",
+    "projectile_type": "rifle",
+    "capacity": 35,
+    "reload": "mag",
+    "attack_rate": 0.08,
+    "controls": ["left_hold"],
+    "accuracy": 0.96
+  },
+  "shotgun": {
+    "ammo_type": "medium",
+    "projectile_type": "shotgun",
+    "capacity": 4,
+    "reload": "shotgun",
+    "attack_rate": 0.3,
+    "controls": ["left"],
+    "accuracy": 0.9
+  },
+  "revolver": {
+    "ammo_type": "medium",
+    "projectile_type": "revolver",
+    "capacity": 6,
+    "reload": "shells",
+    "attack_rate": 0.01,
+    "controls": ["left"],
+    "accuracy": 0.88
+  },
+  "small_revolver": {
+    "ammo_type": "medium",
+    "projectile_type": "small revolver",
+    "capacity": 6,
+    "reload": "shells",
+    "attack_rate": 0.01,
+    "controls": ["left"],
+    "accuracy": 0.94
+  },
+  "pistol": {
+    "ammo_type": "medium",
+    "projectile_type": "pistol",
+    "capacity": 15,
+    "reload": "mag",
+    "attack_rate": 0.02,
+    "controls": ["left"],
+    "accuracy": 0.92
+  },
+  "uzi": {
+    "ammo_type": "medium",
+    "projectile_type": "uzi",
+    "capacity": 64,
+    "reload": "uzi",
+    "attack_rate": 0.03,
+    "controls": ["left_hold"],
+    "accuracy": 0.99
+  },
+  "p90": {
+    "ammo_type": "medium",
+    "projectile_type": "p90",
+    "capacity": 40,
+    "reload": "p90",
+    "attack_rate": 0.03,
+    "controls": ["left_hold"],
+    "accuracy": 0.92
+  },
+  "double_barrel": {
+    "ammo_type": "medium",
+    "projectile_type": "double_barrel",
+    "capacity": 2,
+    "reload": "double_barrel",
+    "attack_rate": 0.08,
+    "controls": ["left"],
+    "accuracy": 0.91
+  },
+  "hornet": {
+    "ammo_type": "medium",
+    "projectile_type": "hornet",
+    "capacity": 20,
+    "reload": "hornet",
+    "attack_rate": 0.03,
+    "controls": ["left_hold"],
+    "accuracy": 0.93
+  },
+  "gold_revolver": {
+    "ammo_type": "medium",
+    "projectile_type": "revolver",
+    "capacity": 6,
+    "reload": "shells",
+    "attack_rate": 0.06,
+    "controls": ["left"],
+    "accuracy": 0.99
+  },
+  "katana": {
+    "ammo_type": "medium",
+    "projectile_type": "revolver",
+    "capacity": 15,
+    "reload": "mag",
+    "attack_rate": 0.7,
+    "controls": ["left"],
+    "accuracy": 1
+  }
+}
